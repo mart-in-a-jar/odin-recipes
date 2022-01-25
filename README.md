@@ -1,6 +1,6 @@
 # odin-recipes
 
-## HTML project to practice 
+#### HTML project to practice 
 * Links
 * Lists
 * Images

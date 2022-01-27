@@ -1,0 +1,66 @@
+:root {
+    --bg-color: #cac0c0;
+}
+
+* {
+    color: black;
+    font-family: sans-serif;
+}
+
+body {
+    background-color:var(--bg-color);
+}
+
+.content {
+    max-width: 700px;
+    margin: auto;
+}
+
+.navigation {
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: rgb(56, 18, 11);
+    font-weight: bold;
+    font-family: "Courier New", sans-serif;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.index * {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+a {
+    text-decoration: underline;
+    text-decoration-color: transparent;
+}
+
+a:hover,
+h2:hover {
+    text-decoration: underline;
+}
+
+a:hover {
+    color: rgba(0, 0, 0, 0.479);
+}
+
+.nav {
+    margin-right: 10px;
+}
+
+ol li {
+    margin-bottom: 10px;
+}
+
+li {
+    margin-bottom: 5px;
+}

@@ -18,6 +18,8 @@ body {
 }
 
 .navigation {
+    font-weight: 500;
+    font-style: italic;
 }
 
 h1,
@@ -28,7 +30,8 @@ h5,
 h6 {
     color: rgb(56, 18, 11);
     font-weight: bold;
-    font-family: "Courier New", sans-serif;
+    /* font-family: "Courier New", sans-serif; */
+    font-family: 'Indie Flower', cursive;
 }
 
 .title {
@@ -54,14 +57,15 @@ a:hover {
     color: rgba(0, 0, 0, 0.479);
 }
 
-.nav {
-    margin-right: 10px;
-}
-
 ol li {
     margin-bottom: 10px;
 }
 
 li {
     margin-bottom: 5px;
+}
+
+img {
+    border-radius: 25px;
+    border-style: ridge;
 }

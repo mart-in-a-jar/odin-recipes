@@ -41,6 +41,8 @@ h6 {
 .index * {
     font-size: 25px;
     font-weight: 500;
+    list-style-type: "📌";
+    padding-inline-start: 7px;
 }
 
 a {

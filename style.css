@@ -20,6 +20,8 @@ body {
 .navigation {
     font-weight: 500;
     font-style: italic;
+    position: fixed;
+    top: 10px;
 }
 
 h1,
